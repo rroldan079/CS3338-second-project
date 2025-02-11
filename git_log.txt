@@ -1,0 +1,51 @@
+commit 06c5f91922291fdddcc8bf9f39277e024702ef8c
+Merge: c137e58 f1f6033
+Author: rroldan079 <roger.roldan2002@gmail.com>
+Date:   Mon Feb 10 21:23:30 2025 -0800
+
+    Merged these files together
+
+commit c137e58cef446efffaf2a76ef3f498eb65e80d80
+Author: rroldan079 <roger.roldan2002@gmail.com>
+Date:   Fri Jan 31 15:11:40 2025 -0800
+
+    Added my favorite game to the index.html
+
+commit f1f60332f8c9dea2a351f33c8df1373f48db549d
+Author: rroldan079 <roger.roldan2002@gmail.com>
+Date:   Fri Jan 31 15:09:33 2025 -0800
+
+    added my favorite food
+
+commit 93ce87764e59af3e02d2a93e40e4ff301a237543
+Author: rroldan079 <roger.roldan2002@gmail.com>
+Date:   Fri Jan 31 13:39:00 2025 -0800
+
+    Added some text to the readme file
+
+commit ee9a4cf1a27088c8a70053559ffa057d79c237da
+Author: rroldan079 <roger.roldan2002@gmail.com>
+Date:   Fri Jan 31 13:32:17 2025 -0800
+
+    Added a readme file
+
+commit 85e0d7d8d3cc71e7e642189842189762ba5abb8b
+Merge: 1d2bfc0 46f2763
+Author: Roger Roldan <133607448+rroldan079@users.noreply.github.com>
+Date:   Fri Jan 31 13:24:59 2025 -0800
+
+    Merge pull request #1 from rroldan079/info-fill
+    
+    added changes to the index.html
+
+commit 46f27636da2d3c7e8e1a8692ebdf9b2e928ab8e0
+Author: rroldan079 <roger.roldan2002@gmail.com>
+Date:   Fri Jan 31 13:08:34 2025 -0800
+
+    added changes to the index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
